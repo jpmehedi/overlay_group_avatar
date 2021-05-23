@@ -30,7 +30,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Example
-This plugin allow you to do custom styles and shapes for Selected and UnSelected dates
+This plugin allow you to do custom styles and shapes
 ```dart
     //Simple use of OverlapAvatar
     OverlapAvatar(
