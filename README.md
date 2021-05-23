@@ -5,7 +5,7 @@ A flutter plugin to horizontal view of overlap group avatar.
 
 # Features #
 - Horizontal view of overlap group avatar.
-- CustomShape and style for Selected and unSelected Item.
+- This plugin allow you to do custom shape of avatars
 
 
 
@@ -30,7 +30,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Example
-This plugin allow you to do custom styles and shapes
+This plugin allow you to do custom shape of avatars
 ```dart
     //Simple use of OverlapAvatar
     OverlapAvatar(
