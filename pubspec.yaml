@@ -1,11 +1,11 @@
 name: overlay_group_avatar
 description: A flutter plugin to horizontal view of overlap group avatar.
-version: 0.0.2
-author: Mehedi Hasan<mehedihasaninfo.com>
+version: 0.0.4
+
 homepage: https://github.com/jpmehedi/overlay_group_avatar
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
   flutter: ">=1.17.0"
 
 dependencies:

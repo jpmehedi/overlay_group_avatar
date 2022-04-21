@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 class OverlapAvatar extends StatelessWidget {
   
   OverlapAvatar({
-    Key key,
+    Key? key,
     this.groupHeight, 
     this.groupWidth, 
     this.itemCount,
@@ -14,14 +14,14 @@ class OverlapAvatar extends StatelessWidget {
   }) : super(key: key);
 
 
-  final double groupWidth;
-  final double groupHeight;
-  final Color backgroundColor;
-  final int itemCount;
-  final double insideRadius;
-  final double outSideRadius;
-  final ImageProvider backgroundImage;
-  final double widthFactor;
+  final double? groupWidth;
+  final double? groupHeight;
+  final Color? backgroundColor;
+  final int? itemCount;
+  final double? insideRadius;
+  final double? outSideRadius;
+  final ImageProvider? backgroundImage;
+  final double? widthFactor;
   
   @override
   Widget build(BuildContext context) {
